@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunil kumar
-- 👀 I’m interested in 
-- 🌱 I’m currently learning MERN Full stack web development
+- 👋 Hi, I’m @sunil kumar.
+- 👀 I’m interested in become a full stack developer.
+- 🌱 I’m currently learning MERN Full stack web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
