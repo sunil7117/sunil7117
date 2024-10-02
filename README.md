@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack Innovator Specializing in MERN: Crafting Scalable, Dynamic Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil7117&label=Profile%20views&color=0e75b6&style=flat" alt="sunil7117" /> </p>
 
